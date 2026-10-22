@@ -41,4 +41,5 @@ for immediate deployment ("cold start") without needing a labeled dataset.
 is logged for future analytical processing (OLAP). 
 This framework addresses the "feedback vacuum" identified in the literature review by ensuring the 
 data flow is bidirectional: data goes in for analysis and comes back out as actionable career advice. 
+
 <img width="645" height="430" alt="image" src="https://github.com/user-attachments/assets/5a909805-8c1a-4c97-b054-f98dc56e01b0" />

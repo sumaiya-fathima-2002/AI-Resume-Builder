@@ -1,0 +1,10 @@
+streamlit
+pandas
+pymysql
+pdfplumber
+transformers
+torch
+sentencepiece
+plotly
+streamlit-tags
+Pillow
